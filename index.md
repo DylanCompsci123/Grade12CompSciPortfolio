@@ -11,7 +11,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - 📝 Blog/Reflection: [Reflection #2](./posts/second_reflection.md)
 
 ## About me
-I enjoy making music and playing piano. I also enjoy coding, mainly in python and java as well as engineering(Hardware based)
+I enjoy making music and playing piano. I also enjoy coding, mainly in python and java as well as engineering(Hardware based). 
 In the future, I want to pursue a career in mechanical engineering, specifically in the AI/Tech sectors
 I hope to learn more about the programming languages
 
