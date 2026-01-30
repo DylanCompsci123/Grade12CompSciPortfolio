@@ -8,6 +8,6 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 
 ## About me
 I enjoy making music and playing piano. I also enjoy coding, mainly in python and java as well as engineering(Hardware based)
+In the future, I want to pursue a career in mechanical engineering, specifically in the AI/Tech sectors
 
----
-*Update this page by editing `index.md` in your repository.*
+
