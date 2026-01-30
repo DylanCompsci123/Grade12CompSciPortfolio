@@ -7,7 +7,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 ## About me
-A short intro (interests, goals, tools I’m learning).
+I enjoy making music and playing piano. I also enjoy coding, mainly in python and java as well as engineering(Hardware based)
 
 ---
 *Update this page by editing `index.md` in your repository.*
