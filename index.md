@@ -1,9 +1,9 @@
-# Hi, I'm <Your Name>
+# Hi, I'm <Dylan Tom>
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
-- 🔧 Project 1: *(title)* – *(1–2 lines about what it does)*
-- 🧠 Concept I learned: *(short note)*
+- 🔧 Project 1: Raspberry Pi Audioplayer *(Plays mp3s in a playlist using built in vlc player)*
+- 🧠 Concept I learned: *(I learned how to code in python as well as configure a Raspberry Pi)*
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 ## About me
